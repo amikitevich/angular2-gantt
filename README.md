@@ -39,3 +39,5 @@ export class AppModule { }
 Angular 2 Gantt supports the most recent versions of major browsers: Chrome (including Android), Firefox, Safari (including iOS), and IE11 / Edge.
 
 ###### Test Atlaz build
+
+https://trello.com/c/0EYMLsce/90-test
